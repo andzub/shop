@@ -33,7 +33,7 @@ class __TwigTemplate_b1b427ff80900a6a54b0405c7f97c31c extends Twig_Template
     ";
         // line 10
         $this->displayBlock('content', $context, $blocks);
-        // line 13
+        // line 12
         echo "</div>
 
 </body>
@@ -49,8 +49,7 @@ class __TwigTemplate_b1b427ff80900a6a54b0405c7f97c31c extends Twig_Template
     public function block_content($context, array $blocks = array())
     {
         // line 11
-        echo "    
-    ";
+        echo "    ";
     }
 
     public function getTemplateName()
@@ -60,6 +59,6 @@ class __TwigTemplate_b1b427ff80900a6a54b0405c7f97c31c extends Twig_Template
 
     public function getDebugInfo()
     {
-        return array (  52 => 11,  49 => 10,  44 => 4,  37 => 13,  35 => 10,  26 => 4,  21 => 1,  31 => 4,  28 => 3,);
+        return array (  52 => 11,  49 => 10,  44 => 4,  37 => 12,  35 => 10,  26 => 4,  21 => 1,  31 => 4,  28 => 3,);
     }
 }
