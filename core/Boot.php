@@ -1,4 +1,5 @@
 <?php
+
 function load($class) {
 	if(!empty($class) && is_string($class)){
 		$models_dir = 'model/';
