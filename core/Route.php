@@ -11,6 +11,8 @@ class Route
 		$uri_array = array(
 			'/' => 'Main',
 			'catalog' => 'Catalog',
+			'about' => 'About',
+			'contacts' => 'Contacts',
 		);
 		if ($uri['path']) {
 			
