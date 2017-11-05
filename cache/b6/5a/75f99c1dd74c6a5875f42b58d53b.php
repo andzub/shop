@@ -28,7 +28,7 @@ class __TwigTemplate_b65a75f99c1dd74c6a5875f42b58d53b extends Twig_Template
     public function block_content($context, array $blocks = array())
     {
         // line 4
-        echo "<h1>Привет!</h1>
+        echo "<h1></h1>
 
 <div id=\"books\">
 
